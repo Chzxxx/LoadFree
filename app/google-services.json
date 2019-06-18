@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218486818351",
+    "firebase_url": "https://loadfree-48dbc.firebaseio.com",
+    "project_id": "loadfree-48dbc",
+    "storage_bucket": "loadfree-48dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218486818351:android:9cbf834641c53bac",
+        "android_client_info": {
+          "package_name": "com.roy.loadfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218486818351-4s4tejnql5vuo6gdp6ptgpcf7d4k95ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3KDXva5cnWvCKNHpEJOFCuDkcNcgS5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
